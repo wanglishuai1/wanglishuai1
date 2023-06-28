@@ -6,7 +6,7 @@
 bilibili: [写代码的王菜菜](https://space.bilibili.com/35763410) 在持续更新k8s相关视频，欢迎大家关注。
 
 ### 提交总数
-[![江江's github stats](https://github-readme-stats.vercel.app/api?username=wanglishuai1&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=wanglishuai1&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 ### 常用语言
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanglishuai1&layout=compact&theme=highcontrast)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wanglishuai1)
