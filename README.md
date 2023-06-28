@@ -7,6 +7,6 @@ bilibili: [写代码的王菜菜](https://space.bilibili.com/35763410) 在持续
 
 ### 提交总数
 ![](https://github-readme-stats.vercel.app/api?username=wanglishuai1&theme=highcontrast)
-### 常用语言
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanglishuai1&layout=compact&theme=highcontrast)
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wanglishuai1)
